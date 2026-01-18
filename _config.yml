@@ -21,7 +21,7 @@ author: ernugraha
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Categories:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
 ################

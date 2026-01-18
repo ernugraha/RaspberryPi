@@ -1,0 +1,19 @@
+current directory: /home/ernugraha/Documents/GitHub/RaspberryPi/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+/usr/bin/ruby3.3 -I/usr/lib/ruby/vendor_ruby extconf.rb
+creating Makefile
+
+current directory: /home/ernugraha/Documents/GitHub/RaspberryPi/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260118-6989-e8oa1j sitelibdir\=./.gem.20260118-6989-e8oa1j clean
+
+current directory: /home/ernugraha/Documents/GitHub/RaspberryPi/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260118-6989-e8oa1j sitelibdir\=./.gem.20260118-6989-e8oa1j
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.so
+
+current directory: /home/ernugraha/Documents/GitHub/RaspberryPi/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260118-6989-e8oa1j sitelibdir\=./.gem.20260118-6989-e8oa1j install
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20260118-6989-e8oa1j
+
+current directory: /home/ernugraha/Documents/GitHub/RaspberryPi/vendor/bundle/ruby/3.3.0/gems/eventmachine-1.2.7/ext/fastfilereader
+make DESTDIR\= sitearchdir\=./.gem.20260118-6989-e8oa1j sitelibdir\=./.gem.20260118-6989-e8oa1j clean
